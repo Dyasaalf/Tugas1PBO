@@ -236,7 +236,10 @@ public class TestAccess {
 ```
 
 ## Output
+![WhatsApp Image 2025-10-03 at 09 26 40_b7597bb2](https://github.com/user-attachments/assets/d2f966f6-c05d-4b99-9446-c7fb029cd0b1)
+
 `Nama=kucing, Jenis=Unknown, Umur=15, Berat=10.0`
 `Nama=Harimau, Jenis=Hewan, Umur=3, Berat=120.0`
 `Nama=Kuda, Jenis=Salah, Umur=12, Berat=170.0`
 `Nama=Harimau, Jenis=Hewan, Umur=10, Berat=120.0`
+
