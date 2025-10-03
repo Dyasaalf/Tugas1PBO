@@ -236,3 +236,7 @@ public class TestAccess {
 ```
 
 ## Output
+`Nama=kucing, Jenis=Unknown, Umur=15, Berat=10.0`
+`Nama=Harimau, Jenis=Hewan, Umur=3, Berat=120.0`
+`Nama=Kuda, Jenis=Salah, Umur=12, Berat=170.0`
+`Nama=Harimau, Jenis=Hewan, Umur=10, Berat=120.0`
